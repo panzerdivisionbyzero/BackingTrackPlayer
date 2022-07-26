@@ -4,13 +4,5 @@ btPlayer.lps
 btPlayer
 backup/
 tests/
-lib/arm-linux/btPlayer.compiled
-lib/arm-linux/btPlayer.o
-lib/arm-linux/
-lib/FreeBSD/
-lib/Linux/
-lib/Mac/
-lib/Windows/
-lib/x86_64-win64/
 piloty/
 piloty_nagr/

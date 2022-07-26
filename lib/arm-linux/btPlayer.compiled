@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1529525064"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -Fi/home/pi/Projects/BackingTrackPlayer/lib/arm-linux -Fu/usr/local/share/lazarus/lcl/units/arm-linux/gtk2 -Fu/usr/local/share/lazarus/lcl/units/arm-linux -Fu/usr/local/share/lazarus/components/lazutils/lib/arm-linux -Fu/usr/local/share/lazarus/packager/units/arm-linux -Fu/home/pi/Projects/BackingTrackPlayer/ -FU/home/pi/Projects/BackingTrackPlayer/lib/arm-linux/ -FE/home/pi/Projects/BackingTrackPlayer/ -o/home/pi/Projects/BackingTrackPlayer/btPlayer -dLCL -dLCLgtk2 -dUseCThreads btPlayer.lpr"/>
+</CONFIG>
